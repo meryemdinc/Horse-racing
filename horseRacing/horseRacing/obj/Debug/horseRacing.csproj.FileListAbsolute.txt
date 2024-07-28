@@ -1,0 +1,11 @@
+C:\Users\merye\source\repos\horseRacing\horseRacing\bin\Debug\horseRacing.exe.config
+C:\Users\merye\source\repos\horseRacing\horseRacing\bin\Debug\horseRacing.exe
+C:\Users\merye\source\repos\horseRacing\horseRacing\bin\Debug\horseRacing.pdb
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.csproj.AssemblyReference.cache
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.csproj.SuggestedBindingRedirects.cache
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.Form1.resources
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.Properties.Resources.resources
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.csproj.GenerateResource.cache
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.csproj.CoreCompileInputs.cache
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.exe
+C:\Users\merye\source\repos\horseRacing\horseRacing\obj\Debug\horseRacing.pdb
